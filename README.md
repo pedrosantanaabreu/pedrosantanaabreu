@@ -1,4 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Santana Abreu</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrosantanaabreu&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 I'm currently working on personal projects
 - 🌱 I’m currently learning Python
