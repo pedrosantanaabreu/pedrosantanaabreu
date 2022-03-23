@@ -14,11 +14,10 @@
 <br><br>
 
 ## :bar_chart: GitHub Analytics
-<div align="center">
-  <a href="https://github.com/pedrosantanaabreu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosantanaabreu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantanaabreu&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedrosantanaabreu&show_icons=true&theme=vision-friendly-dark" alt="pedrosantanaabreu's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantanaabreu&layout=compact&theme=vision-friendly-dark" alt="pedrosantanaabreu's most languages"/>
+</p>
  <br><br>
   
  ## :grinning: Social Links
